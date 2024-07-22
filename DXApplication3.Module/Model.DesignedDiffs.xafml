@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="Useless Task Manager" Logo="ru112855II000b02b6d2c0a8372970288728adcdfc0b1">
+  <BOModel>
+    <Class Name="DXApplication3.Module.BusinessObjects.Customer" ObjectCaptionFormat="{0:FullName}" />
+  </BOModel>
+  <Options>
+    <LayoutManagerOptions RequiredFieldMark="*" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="24.1.4.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
